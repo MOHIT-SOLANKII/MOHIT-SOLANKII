@@ -50,7 +50,7 @@ COFOUND · PDF Chat (RAG) · AI Voice Assistant · Healthcare Platform
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ### ✦ GitHub
 
@@ -64,7 +64,7 @@ COFOUND · PDF Chat (RAG) · AI Voice Assistant · Healthcare Platform
 
 ---
 
-<div align="center">
+<div align="center"> -->
 
 ### ✦ Open To
 
